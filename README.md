@@ -34,7 +34,7 @@ Transform TuneWorks' raw data into actionable business intelligence through:
 
 ---
 
-## 📊 Dataset Overview
+## Dataset Overview
 
 The TuneWorks dataset consists of **12 interconnected tables**:
 
