@@ -9,7 +9,6 @@ TuneWorks is a mid-sized entertainment agency managing entertainers, clients, an
 
 - [📝 Project Brief](./Project_Brief.pdf)
 - [📊 Presentation Slides](./Slides.pdf)
-- [🎨 Figma Prototype](https://www.figma.com/make/gl20OVRRRb6xki8ebM6iS9/Figma_Prototype?fullscreen=1&t=u1c1tH1EBrxVKPNc-1) - **Interactive Demo**
 
 
 ### Business Challenge
