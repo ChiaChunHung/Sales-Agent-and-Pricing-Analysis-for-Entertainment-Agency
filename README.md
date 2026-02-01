@@ -2,11 +2,7 @@ z# TuneWorks Entertainment Agency Analytics
 
 > Data-Driven Insights for Entertainment Agency Growth
 
-[![SQL](https://img.shields.io/badge/SQL-PostgreSQL-blue.svg)](https://www.postgresql.org/)
-[![Python](https://img.shields.io/badge/Python-3.x-yellow.svg)](https://www.python.org/)
-[![AI-Assisted](https://img.shields.io/badge/AI-ChatGPT%20%7C%20Gemini-green.svg)](https://openai.com/)
-
-## 📋 Project Overview
+## Project Overview
 
 TuneWorks is a mid-sized entertainment agency managing entertainers, clients, and bookings. Despite having a robust data engineering infrastructure, they lack an in-house analytics function. This project, conducted by **McBrainsey & Co.**, delivers comprehensive SQL-based analysis and AI-assisted exploration to unlock the value of their operational data.
 
@@ -28,7 +24,7 @@ Transform TuneWorks' raw data into actionable business intelligence through:
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 1. **Data Familiarization**: Thoroughly understand dataset structure, relationships, and business meaning
 2. **Data Quality Assessment**: Identify and address data quality issues (missing values, duplicates, inconsistencies)
@@ -59,7 +55,7 @@ The TuneWorks dataset consists of **12 interconnected tables**:
 
 ---
 
-## 🔬 Methodology
+## Methodology
 
 ### Phase 1: Data Familiarization & Documentation
 **Team**: Mitchell Ma, Joshua Zhang
@@ -95,7 +91,7 @@ The TuneWorks dataset consists of **12 interconnected tables**:
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 ### SQL Analysis
 - **PostgreSQL** - Database for querying and analysis
@@ -112,7 +108,7 @@ The TuneWorks dataset consists of **12 interconnected tables**:
 
 ---
 
-## 📦 Key Deliverables
+## Key Deliverables
 
 ### 1. Technical Report (Internal Use)
 - Complete data dictionary for all 12 tables
@@ -141,25 +137,16 @@ The TuneWorks dataset consists of **12 interconnected tables**:
 
 ---
 
-## 💡 Expected Outcomes
-
-### Business Value for TuneWorks
-✅ **Data-Driven Decision Making**: Move from intuition-based to evidence-based strategic planning  
-✅ **Operational Efficiency**: Identify and optimize underperforming areas  
-✅ **Revenue Growth**: Discover untapped market opportunities and optimize pricing strategies  
-✅ **Customer Satisfaction**: Better match entertainers to customer preferences  
-✅ **Competitive Advantage**: Leverage analytics capabilities competitors may lack  
-
 ### Learning Outcomes for Team
-✅ Practical SQL proficiency in complex database analysis  
-✅ EDA methodology and best practices  
-✅ Data storytelling and executive presentation skills  
-✅ AI tool proficiency for data analysis  
-✅ Understanding strengths and limitations of AI vs. human analysis  
+Practical SQL proficiency in complex database analysis  
+EDA methodology and best practices  
+Data storytelling and executive presentation skills  
+AI tool proficiency for data analysis  
+Understanding strengths and limitations of AI vs. human analysis  
 
 ---
 
-## 📈 Success Criteria
+## Success Criteria
 
 | Category | Weight | Focus Areas |
 |----------|--------|-------------|
@@ -171,7 +158,7 @@ The TuneWorks dataset consists of **12 interconnected tables**:
 
 ---
 
-## 👥 Team
+## Team
 
 **McBrainsey & Co. Consulting Team**
 
@@ -185,7 +172,7 @@ The TuneWorks dataset consists of **12 interconnected tables**:
 - Shao-Chueh Liu
 
 ### Phase 3 Team
-- Tony Hung
+- Chia-Chun Hung
 - Xiaoyu Ma
 - Maria Chen
 
@@ -201,66 +188,8 @@ The TuneWorks dataset consists of **12 interconnected tables**:
 
 ---
 
-## 🚀 Getting Started
-
-### Prerequisites
-```bash
-# Install PostgreSQL
-# Install Python 3.x
-# Install required Python packages
-pip install pandas matplotlib seaborn jupyter
-```
-
-### Database Setup
-```sql
--- Connect to PostgreSQL
-psql -U username -d tuneworks_db
-
--- Verify tables
-\dt
-```
-
-### Running Analysis
-```python
-# Example Python analysis
-import pandas as pd
-import matplotlib.pyplot as plt
-import seaborn as sns
-
-# Connect to database and run queries
-# Generate visualizations
-# Export results
-```
-
----
-
-## 📝 License
-
-This project is part of an academic consulting engagement with TuneWorks Entertainment Agency.
-
----
-
-## 🤝 Contributing
-
-This is a team project. For questions or suggestions, please contact the project team members.
-
----
-
-## 📧 Contact
-
-**McBrainsey & Co.**  
-Consulting Team - TuneWorks Analytics Project
-
----
-
 ## 🙏 Acknowledgments
 
 - TuneWorks Entertainment Agency for providing the dataset
 - Instructors for guidance and EDA concept materials
 - ChatGPT/Gemini for AI-assisted analysis support
-
----
-
-**Last Updated**: January 2026  
-**Project Status**: In Progress  
-**Client**: TuneWorks Entertainment Agency
