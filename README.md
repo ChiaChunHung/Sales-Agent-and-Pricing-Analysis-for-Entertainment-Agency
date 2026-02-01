@@ -1,5 +1,3 @@
-z# TuneWorks Entertainment Agency Analytics
-
 > Data-Driven Insights for Entertainment Agency Growth
 
 ## Project Overview
