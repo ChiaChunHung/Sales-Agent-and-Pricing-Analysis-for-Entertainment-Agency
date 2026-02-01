@@ -177,7 +177,7 @@ Understanding strengths and limitations of AI vs. human analysis
 
 ---
 
-## 📚 Project Resources
+## Project Resources
 
 - TuneWorks Entertainment Dataset (12 tables, PostgreSQL)
 - EDA Concept Guide
