@@ -5,6 +5,13 @@
 
 TuneWorks is a mid-sized entertainment agency managing entertainers, clients, and bookings. Despite having a robust data engineering infrastructure, they lack an in-house analytics function. This project, conducted by **McBrainsey & Co.**, delivers comprehensive SQL-based analysis and AI-assisted exploration to unlock the value of their operational data.
 
+## Project Resources
+
+- [📝 Project Brief](./Project_Brief.pdf)
+- [📊 Presentation Slides](./Slides.pdf)
+- [🎨 Figma Prototype](https://www.figma.com/make/gl20OVRRRb6xki8ebM6iS9/Figma_Prototype?fullscreen=1&t=u1c1tH1EBrxVKPNc-1) - **Interactive Demo**
+
+
 ### Business Challenge
 
 - **Untapped Data Value**: Large volumes of operational data exist but aren't leveraged for strategic decision-making
